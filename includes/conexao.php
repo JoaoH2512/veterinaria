@@ -18,4 +18,5 @@ try {
     // Se não conectar, mostra mensagem de erro
     die("Erro ao conectar: " . $e->getMessage());
 }
-?>
+ ?>
+  <!-- dsad -->
